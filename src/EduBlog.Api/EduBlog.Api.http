@@ -1,0 +1,6 @@
+@EduBlog.Api_HostAddress = http://localhost:5231
+
+GET {{EduBlog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
